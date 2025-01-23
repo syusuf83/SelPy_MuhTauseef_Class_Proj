@@ -1,0 +1,39 @@
+2024-11-12 00:32:00,036 - ERROR - assertion failed
+2024-11-12 00:35:15,205 - ERROR - assertion failed
+2024-11-12 00:35:15,257 - ERROR - assert 'Cucumber - 1sadsdsd Kg' in 'Cucumber - 1 Kg'
+ +  where 'Cucumber - 1 Kg' = get_product_text()
+ +    where get_product_text = <POM.HeaderPage.HeaderPage object at 0x0000011DFC743080>.get_product_text
+2024-11-16 18:44:36,152 - ERROR - assertion failed
+2024-11-16 18:44:36,201 - ERROR - assert 'Cucumber - 1sadsdsd Kg' in 'Cucumber - 1 Kg'
+ +  where 'Cucumber - 1 Kg' = get_product_text()
+ +    where get_product_text = <POM.HeaderPage.HeaderPage object at 0x000002AC256C51C0>.get_product_text
+2024-11-16 18:45:08,212 - ERROR - assertion failed
+2024-11-16 18:45:08,353 - ERROR - assert 'Cucumber - 1sadsdsd Kg' in 'Cucumber - 1 Kg'
+ +  where 'Cucumber - 1 Kg' = get_product_text()
+ +    where get_product_text = <POM.HeaderPage.HeaderPage object at 0x0000028FBAB05790>.get_product_text
+2024-11-16 18:45:57,043 - ERROR - assertion failed
+2024-11-16 18:45:57,163 - ERROR - assert 'Cucumber - 1sadsdsd Kg' in 'Cucumber - 1 Kg'
+ +  where 'Cucumber - 1 Kg' = get_product_text()
+ +    where get_product_text = <POM.HeaderPage.HeaderPage object at 0x0000021CC5472A50>.get_product_text
+2024-11-16 18:47:01,386 - ERROR - assertion failed
+2024-11-16 18:47:01,427 - ERROR - assert 'Cucumber - 1sadsdsd Kg' in 'Cucumber - 1 Kg'
+ +  where 'Cucumber - 1 Kg' = get_product_text()
+ +    where get_product_text = <POM.HeaderPage.HeaderPage object at 0x000001C77F0C3680>.get_product_text
+2024-11-16 23:20:40,518 - ERROR - assertion failed
+2024-11-16 23:20:40,732 - ERROR - assert 'Cucumber - 1sadsdsd Kg' in 'Cucumber - 1 Kg'
+ +  where 'Cucumber - 1 Kg' = get_product_text()
+ +    where get_product_text = <POM.HeaderPage.HeaderPage object at 0x00000265F5FBEDE0>.get_product_text
+2024-11-16 23:22:16,900 - ERROR - Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-11-16 23:31:25,734 - ERROR - Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
